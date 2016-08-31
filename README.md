@@ -9,3 +9,4 @@ Step 3: Create an Angular Module
 Step 4: Add main.ts, identifying the root component to Angular
 Step 5: Add index.html, the web page that hosts the application
 Step 6: Build and run the app
+
